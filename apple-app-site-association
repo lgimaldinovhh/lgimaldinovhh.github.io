@@ -14,7 +14,8 @@
           "NOT /applicant/resumes/*/?*",
           "/applicant/resumes/*",
           "/applicant/autosearch",
-          "/nearby"
+          "/nearby",
+          "/applicant/resumes/completion"
         ]
       },
       {
